@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# contact_list
+Rails 6.1.1
+
+ruby 2.7.2p137 (2020-10-01 revision 5445e04352) [x86_64-linux]
